@@ -84,6 +84,7 @@
       },
       "1476381402840": {
         "type": "video",
+        "disabled": true,
         "settings": {
           "cover_text": "",
           "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
@@ -96,6 +97,7 @@
       },
       "1476381658595": {
         "type": "hero",
+        "disabled": true,
         "settings": {
           "hero_size": "large",
           "alignment": "top left",
@@ -127,7 +129,7 @@
       "1478026923193": {
         "type": "feature-row",
         "settings": {
-          "size": "large",
+          "size": "medium",
           "background_color": "#f1dfa8",
           "image": "shopify:\/\/shop_images\/IMG-20211117-WA0013.jpg",
           "image_crop": "circle",
@@ -305,6 +307,7 @@
             "settings": {
               "background_color": "#9d988b",
               "show_image": true,
+              "slide_image": "shopify:\/\/shop_images\/IMG-20211117-WA0011.jpg",
               "slide_title": "Featured variant",
               "slide_button_text": "View",
               "slide_button_url": ""
@@ -315,7 +318,8 @@
             "settings": {
               "background_color": "#cdcdcd",
               "show_image": true,
-              "slide_title": "Featured variant",
+              "slide_image": "shopify:\/\/shop_images\/IMG-20211117-WA0012.jpg",
+              "slide_title": "Vridavan",
               "slide_button_text": "View",
               "slide_button_url": ""
             }
@@ -348,9 +352,10 @@
           "1486649769533"
         ],
         "settings": {
-          "use_second_button": false,
-          "text_color": "#ffffff",
-          "cover_title": "Showcase some product information",
+          "use_second_button": true,
+          "text_color": "#ece0e0",
+          "cover_image": "shopify:\/\/shop_images\/IMG-20211122-WA0021.jpg",
+          "cover_title": "Collection of this season - Peace and Joy",
           "cover_title_desktop_position": "center",
           "show_overlay": true,
           "overlay_color": "#404040",
@@ -417,12 +422,12 @@
       "1478026923193",
       "1476381402840",
       "1476381658595",
-      "1486649413883",
-      "1478027260401",
+      "1486649604878",
+      "1486649811524",
       "1492806970384",
       "1486649522802",
-      "1486649604878",
-      "1486649811524"
+      "1478027260401",
+      "1486649413883"
     ]
   },
   "presets": {
