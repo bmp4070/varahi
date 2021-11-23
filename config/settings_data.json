@@ -379,7 +379,7 @@
           "enable_video_looping": true,
           "layout": "square",
           "media_size": "cover",
-          "background_color": "rgba(0,0,0,0)"
+          "background_color": "#eb4f47"
         }
       },
       "article-template": {
