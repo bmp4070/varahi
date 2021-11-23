@@ -195,7 +195,7 @@
               "image": "shopify:\/\/shop_images\/IMG-20211122-WA0021.jpg",
               "alignment": "center center",
               "title": "Vintage Varahi",
-              "button": "HOME DECOR",
+              "button": "VIEW HOME DECOR",
               "cta": "View more",
               "cta_link": ""
             }
@@ -214,9 +214,10 @@
           "1486649208703": {
             "type": "image",
             "settings": {
+              "image": "shopify:\/\/shop_images\/IMG-20211117-WA0015.jpg",
               "alignment": "center center",
-              "title": "Tell your story",
-              "button": "Slide title",
+              "title": "Vintage Varahi",
+              "button": "POOJA ACCESSORIES",
               "cta": "View more",
               "cta_link": ""
             }
