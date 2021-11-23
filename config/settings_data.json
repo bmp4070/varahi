@@ -224,6 +224,7 @@
           },
           "1486649267624": {
             "type": "image",
+            "disabled": true,
             "settings": {
               "alignment": "center center",
               "title": "Tell your story",
