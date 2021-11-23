@@ -179,7 +179,9 @@
           "show_quantity_selector": false,
           "show_variant_labels": true,
           "show_vendor": false,
+          "enable_payment_button": true,
           "show_share_buttons": true,
+          "enable_video_looping": false,
           "hide_variant_media": true
         }
       },
@@ -356,7 +358,7 @@
         "settings": {
           "use_second_button": true,
           "text_color": "#ece0e0",
-          "cover_image": "shopify:\/\/shop_images\/IMG-20211122-WA0021.jpg",
+          "cover_image": "shopify:\/\/shop_images\/IMG-20211122-WA0017_1.jpg",
           "cover_title": "Collection of this season - Peace and Joy",
           "cover_title_desktop_position": "center",
           "show_overlay": true,
@@ -368,13 +370,13 @@
       "1486649811524": {
         "type": "featured-product",
         "settings": {
-          "featured_product": "",
-          "show_quantity_selector": false,
+          "featured_product": "decorative-peacock-diya-home-decor",
+          "show_quantity_selector": true,
           "show_variant_labels": true,
           "show_vendor": false,
           "enable_payment_button": true,
           "show_share_buttons": true,
-          "enable_video_looping": false,
+          "enable_video_looping": true,
           "layout": "square",
           "media_size": "cover",
           "background_color": "rgba(0,0,0,0)"
@@ -416,6 +418,15 @@
           "background_color": "",
           "top_margin": true,
           "bottom_margin": false
+        }
+      },
+      "product-recommendations": {
+        "type": "product-recommendations",
+        "settings": {
+          "show_product_recommendations": false,
+          "heading": "You may also like",
+          "show_spacing": false,
+          "show_vendor": true
         }
       }
     },
