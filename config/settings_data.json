@@ -294,8 +294,9 @@
         "settings": {
           "border_color": "#ffd980",
           "content_alignment": "middle",
+          "image": "shopify:\/\/shop_images\/laxmi.jpg",
           "image_position": "back",
-          "heading": "Gift card",
+          "heading": "Gift cards",
           "text": "Looking for something for someone special? A gift card to our store is the perfect idea!",
           "use_second_button": false,
           "button_text": "View",
