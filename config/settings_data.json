@@ -57,7 +57,7 @@
           "announcement_link": "",
           "announcement_icon": "checkmark",
           "announcement_color_bg": "#eb4f47",
-          "announcement_color_text": "#fff"
+          "announcement_color_text": "#ffffff"
         }
       },
       "footer": {
@@ -241,12 +241,12 @@
           "1486649267624"
         ],
         "settings": {
-          "slider_height": "full",
-          "center_cta": true,
+          "slider_height": "adapt",
+          "center_cta": false,
           "show_overlay": true,
           "overlay_color": "#313131",
           "overlay_text": "#ffffff",
-          "overlay_opacity": 30
+          "overlay_opacity": 43
         }
       },
       "1486649413883": {
