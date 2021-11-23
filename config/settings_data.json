@@ -51,9 +51,9 @@
           "primary_navigation": "main-menu",
           "secondary_navigation": "footer",
           "show_social_icons": false,
-          "show_announcement": false,
+          "show_announcement": true,
           "home_page_only": true,
-          "announcement_text": "Announce something here",
+          "announcement_text": "Thanks for visiting, we are opening shortly!!!",
           "announcement_link": "",
           "announcement_icon": "checkmark",
           "announcement_color_bg": "#eb4f47",
@@ -149,17 +149,17 @@
           "1478027260401-0": {
             "type": "quote",
             "settings": {
-              "heading": "",
-              "quote": "<p>Add customer reviews and testimonials to showcase your store's happy customers.<\/p>",
-              "author": "Author's name"
+              "heading": "Panchamukhi Hanuman",
+              "quote": "<p>Panchamukhi hanuman idol from Arpita's art gallery was the best gift I could give to my dear friend who is a bhakt of HANUMA<\/p>",
+              "author": "Venkat Bojireddi"
             }
           },
           "1478027389453": {
             "type": "quote",
             "settings": {
-              "heading": "",
-              "quote": "<p>Add customer reviews and testimonials to showcase your store's happy customers.<\/p>",
-              "author": "Author's name"
+              "heading": "Nirvana",
+              "quote": "<p>Meditation collection at Vintage Varahi art gallery was the best purchase to elevate my home's aura<\/p>",
+              "author": "Sireesha Elluri"
             }
           }
         },
@@ -168,7 +168,7 @@
           "1478027389453"
         ],
         "settings": {
-          "color_bg": "#000000",
+          "color_bg": "#f7bf3b",
           "color_text": "#ffffff",
           "autoplay_speed": "6000"
         }
@@ -256,6 +256,7 @@
       },
       "1486649413883": {
         "type": "gallery",
+        "disabled": true,
         "blocks": {
           "1486649413883-0": {
             "type": "image",
@@ -291,7 +292,7 @@
       "1486649522802": {
         "type": "highlight",
         "settings": {
-          "border_color": "#cbc8c1",
+          "border_color": "#ffd980",
           "content_alignment": "middle",
           "image_position": "back",
           "heading": "Gift card",
@@ -377,9 +378,9 @@
           "enable_payment_button": true,
           "show_share_buttons": true,
           "enable_video_looping": true,
-          "layout": "square",
-          "media_size": "cover",
-          "background_color": "#eb4f47"
+          "layout": "full",
+          "media_size": "contain",
+          "background_color": "#ff6d6d"
         }
       },
       "article-template": {
@@ -393,6 +394,7 @@
       },
       "1492806970384": {
         "type": "custom-content",
+        "disabled": true,
         "blocks": {
           "1492806970384-0": {
             "type": "text",
