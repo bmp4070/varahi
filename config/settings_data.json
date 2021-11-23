@@ -329,7 +329,8 @@
             "settings": {
               "background_color": "#a7a59e",
               "show_image": true,
-              "slide_title": "Featured variant",
+              "slide_image": "shopify:\/\/shop_images\/IMG-20211117-WA0003.jpg",
+              "slide_title": "Bronze art with enamel coating",
               "slide_button_text": "View",
               "slide_button_url": ""
             }
@@ -339,7 +340,8 @@
             "settings": {
               "background_color": "#383a3c",
               "show_image": true,
-              "slide_title": "Featured variant",
+              "slide_image": "shopify:\/\/shop_images\/IMG-20211120-WA0001.jpg",
+              "slide_title": "Krishna",
               "slide_button_text": "View",
               "slide_button_url": ""
             }
